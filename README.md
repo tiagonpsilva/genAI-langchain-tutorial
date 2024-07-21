@@ -1,6 +1,8 @@
 # LangChain Tutorial
 
-Exemplos de implementação do LangChain
+Exemplos de implementação da LangChain (https://www.langchain.com)
+
+LangChain é uma estrutura de desenvolvimento projetada para facilitar a criação de aplicações utilizando modelos de linguagem grandes (LLMs). Ele permite que desenvolvedores construam e integrem rapidamente LLMs em suas aplicações, oferecendo um conjunto de ferramentas e componentes que simplificam o processo.
 
 ## Referência
 
