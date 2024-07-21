@@ -1,0 +1,46 @@
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node.js packages folder
+node_modules
+
+# Build folder
+dist
+
+# Environment variables file
+.env
+
+# Editor folders and files
+.idea
+*.swp
+*.swo
+*.swn
+.vscode
+
+# Python
+*.pyc
+__pycache__/
+
+# Java / Maven / Gradle
+target/
+build/
+*.iml
+
+# PHP
+vendor/
+
+# Other
+*.bak
+*.cache
+*.gz
+*.rar
+*.zip
+_old
+_wip
+.old
